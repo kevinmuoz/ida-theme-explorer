@@ -43,7 +43,7 @@ Clone the repo and copy it to your IDA plugins directory:
 ## Requirements
 
 ```
-IDA Pro >= 7.3
+IDA Pro >= 9.0
 ```
 
 Themes rely on the CSS-based theming system introduced in IDA 7.3.
