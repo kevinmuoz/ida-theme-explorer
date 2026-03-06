@@ -1,0 +1,30 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "IDA-Theme-Explorer",
+    "entryPoint": "theme_explorer.py",
+    "version": "1.0.0",
+    "idaVersions": ">=7.3",
+    "description": "Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized, Gruvbox and more)",
+    "license": "MIT",
+    "logoPath": "images/ida_theme_explorer.png",
+    "categories": [
+        "ui-ux-and-visualization",
+        "collaboration-and-productivity"
+    ],
+    "keywords": [
+        "ida",
+        "themes",
+        "ida-plugin",
+        "ui",
+        "customization"
+    ],
+    "urls": {
+      "repository": "https://github.com/kevinmuoz/ida-theme-explorer"
+    },
+    "authors": [{
+      "name": "Kevin Muñoz",
+      "email": "km9530802@gmail.com"
+    }]
+  }
+}

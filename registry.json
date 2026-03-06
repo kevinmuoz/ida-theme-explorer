@@ -1,0 +1,1095 @@
+{
+  "version": 2,
+  "themes": [
+    {
+      "id": "agilaized-neon",
+      "name": "Agilaized Neon",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Agilaized Neon",
+      "description": "Agilaized Neon theme",
+      "preview": ""
+    },
+    {
+      "id": "andromeda",
+      "name": "Andromeda",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Andromeda",
+      "description": "Andromeda theme",
+      "preview": ""
+    },
+    {
+      "id": "andromeda-bordered",
+      "name": "Andromeda Bordered",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Andromeda Bordered",
+      "description": "Andromeda Bordered theme",
+      "preview": ""
+    },
+    {
+      "id": "andromeda-italic",
+      "name": "Andromeda Italic",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Andromeda Italic",
+      "description": "Andromeda Italic theme",
+      "preview": ""
+    },
+    {
+      "id": "andromeda-italic-bordered",
+      "name": "Andromeda Italic Bordered",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Andromeda Italic Bordered",
+      "description": "Andromeda Italic Bordered theme",
+      "preview": ""
+    },
+    {
+      "id": "bg-black",
+      "name": "BG Black",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/BG Black",
+      "description": "BG Black theme",
+      "preview": ""
+    },
+    {
+      "id": "catppuccin-frappé",
+      "name": "Catppuccin Frappé",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Catppuccin Frappé",
+      "description": "Catppuccin Frappé theme",
+      "preview": ""
+    },
+    {
+      "id": "catppuccin-latte",
+      "name": "Catppuccin Latte",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Catppuccin Latte",
+      "description": "Catppuccin Latte theme",
+      "preview": ""
+    },
+    {
+      "id": "catppuccin-macchiato",
+      "name": "Catppuccin Macchiato",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Catppuccin Macchiato",
+      "description": "Catppuccin Macchiato theme",
+      "preview": ""
+    },
+    {
+      "id": "catppuccin-mocha",
+      "name": "Catppuccin Mocha",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Catppuccin Mocha",
+      "description": "Catppuccin Mocha theme",
+      "preview": ""
+    },
+    {
+      "id": "celestial",
+      "name": "Celestial",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Celestial",
+      "description": "Celestial theme",
+      "preview": ""
+    },
+    {
+      "id": "cobalt",
+      "name": "Cobalt",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Cobalt",
+      "description": "Cobalt theme",
+      "preview": ""
+    },
+    {
+      "id": "dark-lavender",
+      "name": "Dark Lavender",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Dark Lavender",
+      "description": "Dark Lavender theme",
+      "preview": ""
+    },
+    {
+      "id": "dark-lavender-black",
+      "name": "Dark Lavender (Black)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Dark Lavender (Black)",
+      "description": "Dark Lavender (Black) theme",
+      "preview": ""
+    },
+    {
+      "id": "dark-lavender-soft",
+      "name": "Dark Lavender (Soft)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Dark Lavender (Soft)",
+      "description": "Dark Lavender (Soft) theme",
+      "preview": ""
+    },
+    {
+      "id": "dark-lavender-tailwind-soft",
+      "name": "Dark Lavender (Tailwind Soft)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Dark Lavender (Tailwind Soft)",
+      "description": "Dark Lavender (Tailwind Soft) theme",
+      "preview": ""
+    },
+    {
+      "id": "dark-lavender-tailwind",
+      "name": "Dark Lavender (Tailwind)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Dark Lavender (Tailwind)",
+      "description": "Dark Lavender (Tailwind) theme",
+      "preview": ""
+    },
+    {
+      "id": "dp701-extra-large",
+      "name": "dp701 Extra Large",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "main",
+      "theme_path": "theme/dp701-extra-large",
+      "description": "Dark theme inspired by Visual Studio (extra large)",
+      "preview": ""
+    },
+    {
+      "id": "dp701-large",
+      "name": "dp701 Large",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "main",
+      "theme_path": "theme/dp701-large",
+      "description": "Dark theme inspired by Visual Studio (large)",
+      "preview": ""
+    },
+    {
+      "id": "dp701-medium",
+      "name": "dp701 Medium",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "main",
+      "theme_path": "theme/dp701-medium",
+      "description": "Dark theme inspired by Visual Studio (medium)",
+      "preview": ""
+    },
+    {
+      "id": "dp701-small",
+      "name": "dp701 Small",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "master",
+      "theme_path": "theme/dp701-small",
+      "description": "Dark theme inspired by Visual Studio (small)",
+      "preview": ""
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "author": "dracula",
+      "repo": "dracula/ida",
+      "branch": "master",
+      "theme_path": "",
+      "description": "Dracula dark theme",
+      "preview": ""
+    },
+    {
+      "id": "github-light-colorblind",
+      "name": "GitHub Light Colorblind",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/GitHub Light Colorblind",
+      "description": "GitHub Light Colorblind theme",
+      "preview": ""
+    },
+    {
+      "id": "github-light-default",
+      "name": "GitHub Light Default",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/GitHub Light Default",
+      "description": "GitHub Light Default theme",
+      "preview": ""
+    },
+    {
+      "id": "github-light-high-contrast",
+      "name": "GitHub Light High Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/GitHub Light High Contrast",
+      "description": "GitHub Light High Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-dark-hard",
+      "name": "Gruvbox Dark Hard",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Dark Hard",
+      "description": "Gruvbox Dark Hard theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-dark-medium",
+      "name": "Gruvbox Dark Medium",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Dark Medium",
+      "description": "Gruvbox Dark Medium theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-dark-soft",
+      "name": "Gruvbox Dark Soft",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Dark Soft",
+      "description": "Gruvbox Dark Soft theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-light-hard",
+      "name": "Gruvbox Light Hard",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Light Hard",
+      "description": "Gruvbox Light Hard theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-light-medium",
+      "name": "Gruvbox Light Medium",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Light Medium",
+      "description": "Gruvbox Light Medium theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-light-soft",
+      "name": "Gruvbox Light Soft",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Light Soft",
+      "description": "Gruvbox Light Soft theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-material-dark",
+      "name": "Gruvbox Material Dark",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Material Dark",
+      "description": "Gruvbox Material Dark theme",
+      "preview": ""
+    },
+    {
+      "id": "gruvbox-material-light",
+      "name": "Gruvbox Material Light",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Gruvbox Material Light",
+      "description": "Gruvbox Material Light theme",
+      "preview": ""
+    },
+    {
+      "id": "hyper-term-black",
+      "name": "Hyper Term Black",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Hyper Term Black",
+      "description": "Hyper Term Black theme",
+      "preview": ""
+    },
+    {
+      "id": "karma",
+      "name": "Karma",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Karma",
+      "description": "Karma theme",
+      "preview": ""
+    },
+    {
+      "id": "light-visual-studio",
+      "name": "Light (Visual Studio)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Light (Visual Studio)",
+      "description": "Light (Visual Studio) theme",
+      "preview": ""
+    },
+    {
+      "id": "lightless-dark",
+      "name": "Lightless Dark",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Lightless Dark",
+      "description": "Lightless Dark theme",
+      "preview": ""
+    },
+    {
+      "id": "long-night",
+      "name": "Long Night",
+      "author": "ioncodes",
+      "repo": "ioncodes/long_night",
+      "branch": "master",
+      "theme_path": "ida8.x-9.x/long_night",
+      "description": "Pastel dark theme for IDA 8.x-9.x",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-darker",
+      "name": "Material-Theme-Darker",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Darker",
+      "description": "Material-Theme-Darker theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-darker-high-contrast",
+      "name": "Material-Theme-Darker-High-Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Darker-High-Contrast",
+      "description": "Material-Theme-Darker-High-Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-deepforest",
+      "name": "Material-Theme-Deepforest",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Deepforest",
+      "description": "Material-Theme-Deepforest theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-deepforest-high-contrast",
+      "name": "Material-Theme-Deepforest-High-Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Deepforest-High-Contrast",
+      "description": "Material-Theme-Deepforest-High-Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-default",
+      "name": "Material-Theme-Default",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Default",
+      "description": "Material-Theme-Default theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-default-high-contrast",
+      "name": "Material-Theme-Default-High-Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Default-High-Contrast",
+      "description": "Material-Theme-Default-High-Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-lighter",
+      "name": "Material-Theme-Lighter",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Lighter",
+      "description": "Material-Theme-Lighter theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-lighter-high-contrast",
+      "name": "Material-Theme-Lighter-High-Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Lighter-High-Contrast",
+      "description": "Material-Theme-Lighter-High-Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-ocean",
+      "name": "Material-Theme-Ocean",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Ocean",
+      "description": "Material-Theme-Ocean theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-ocean-high-contrast",
+      "name": "Material-Theme-Ocean-High-Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Ocean-High-Contrast",
+      "description": "Material-Theme-Ocean-High-Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-palenight",
+      "name": "Material-Theme-Palenight",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Palenight",
+      "description": "Material-Theme-Palenight theme",
+      "preview": ""
+    },
+    {
+      "id": "material-theme-palenight-high-contrast",
+      "name": "Material-Theme-Palenight-High-Contrast",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Material-Theme-Palenight-High-Contrast",
+      "description": "Material-Theme-Palenight-High-Contrast theme",
+      "preview": ""
+    },
+    {
+      "id": "monokai-classic",
+      "name": "Monokai Classic",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Monokai Classic",
+      "description": "Monokai Classic theme",
+      "preview": ""
+    },
+    {
+      "id": "monokai-pro",
+      "name": "Monokai Pro",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Monokai Pro",
+      "description": "Monokai Pro theme",
+      "preview": ""
+    },
+    {
+      "id": "monokai-pro-filter-machine",
+      "name": "Monokai Pro (Filter Machine)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Monokai Pro (Filter Machine)",
+      "description": "Monokai Pro (Filter Machine) theme",
+      "preview": ""
+    },
+    {
+      "id": "monokai-pro-filter-octagon",
+      "name": "Monokai Pro (Filter Octagon)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Monokai Pro (Filter Octagon)",
+      "description": "Monokai Pro (Filter Octagon) theme",
+      "preview": ""
+    },
+    {
+      "id": "monokai-pro-filter-ristretto",
+      "name": "Monokai Pro (Filter Ristretto)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Monokai Pro (Filter Ristretto)",
+      "description": "Monokai Pro (Filter Ristretto) theme",
+      "preview": ""
+    },
+    {
+      "id": "monokai-pro-filter-spectrum",
+      "name": "Monokai Pro (Filter Spectrum)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Monokai Pro (Filter Spectrum)",
+      "description": "Monokai Pro (Filter Spectrum) theme",
+      "preview": ""
+    },
+    {
+      "id": "neon-chalk",
+      "name": "Neon Chalk",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Neon Chalk",
+      "description": "Neon Chalk theme",
+      "preview": ""
+    },
+    {
+      "id": "night-owl",
+      "name": "Night Owl",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Night Owl",
+      "description": "Night Owl theme",
+      "preview": ""
+    },
+    {
+      "id": "night-owl-light",
+      "name": "Night Owl Light",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Night Owl Light",
+      "description": "Night Owl Light theme",
+      "preview": ""
+    },
+    {
+      "id": "night-owl-no-italics",
+      "name": "Night Owl No Italics",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Night Owl No Italics",
+      "description": "Night Owl No Italics theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis",
+      "name": "Noctis",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis",
+      "description": "Noctis theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-azureus",
+      "name": "Noctis Azureus",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Azureus",
+      "description": "Noctis Azureus theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-bordo",
+      "name": "Noctis Bordo",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Bordo",
+      "description": "Noctis Bordo theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-hibernus",
+      "name": "Noctis Hibernus",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Hibernus",
+      "description": "Noctis Hibernus theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-lilac",
+      "name": "Noctis Lilac",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Lilac",
+      "description": "Noctis Lilac theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-lux",
+      "name": "Noctis Lux",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Lux",
+      "description": "Noctis Lux theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-minimus",
+      "name": "Noctis Minimus",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Minimus",
+      "description": "Noctis Minimus theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-obscuro",
+      "name": "Noctis Obscuro",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Obscuro",
+      "description": "Noctis Obscuro theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-sereno",
+      "name": "Noctis Sereno",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Sereno",
+      "description": "Noctis Sereno theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-uva",
+      "name": "Noctis Uva",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Uva",
+      "description": "Noctis Uva theme",
+      "preview": ""
+    },
+    {
+      "id": "noctis-viola",
+      "name": "Noctis Viola",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Noctis Viola",
+      "description": "Noctis Viola theme",
+      "preview": ""
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Nord",
+      "description": "Nord theme",
+      "preview": ""
+    },
+    {
+      "id": "one-dark-pro",
+      "name": "One Dark Pro",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/One Dark Pro",
+      "description": "One Dark Pro theme",
+      "preview": ""
+    },
+    {
+      "id": "one-monokai",
+      "name": "One Monokai",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/One Monokai",
+      "description": "One Monokai theme",
+      "preview": ""
+    },
+    {
+      "id": "onedark",
+      "name": "OneDark",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/OneDark",
+      "description": "OneDark theme",
+      "preview": ""
+    },
+    {
+      "id": "op-1-rev",
+      "name": "op-1_rev",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/op-1_rev",
+      "description": "op-1_rev theme",
+      "preview": ""
+    },
+    {
+      "id": "palenight-mild-contrast",
+      "name": "Palenight (Mild Contrast)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Palenight (Mild Contrast)",
+      "description": "Palenight (Mild Contrast) theme",
+      "preview": ""
+    },
+    {
+      "id": "palenight-italic",
+      "name": "Palenight Italic",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Palenight Italic",
+      "description": "Palenight Italic theme",
+      "preview": ""
+    },
+    {
+      "id": "palenight-operator",
+      "name": "Palenight Operator",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Palenight Operator",
+      "description": "Palenight Operator theme",
+      "preview": ""
+    },
+    {
+      "id": "palenight-theme",
+      "name": "Palenight Theme",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Palenight Theme",
+      "description": "Palenight Theme theme",
+      "preview": ""
+    },
+    {
+      "id": "panda-syntax-beta",
+      "name": "Panda Syntax – Beta",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Panda Syntax – Beta",
+      "description": "Panda Syntax – Beta theme",
+      "preview": ""
+    },
+    {
+      "id": "pihunter",
+      "name": "Pi Hunter",
+      "author": "rpigu-i",
+      "repo": "rpigu-i/ida-theme-pihunter",
+      "branch": "master",
+      "theme_path": "",
+      "description": "Pi Hunter dark theme",
+      "preview": ""
+    },
+    {
+      "id": "popping-and-locking",
+      "name": "Popping and Locking",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Popping and Locking",
+      "description": "Popping and Locking theme",
+      "preview": ""
+    },
+    {
+      "id": "pureblack",
+      "name": "PureBlack",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/PureBlack",
+      "description": "PureBlack theme",
+      "preview": ""
+    },
+    {
+      "id": "rubylack-theme",
+      "name": "Rubylack Theme",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Rubylack Theme",
+      "description": "Rubylack Theme theme",
+      "preview": ""
+    },
+    {
+      "id": "seti-black",
+      "name": "Seti Black",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Seti Black",
+      "description": "Seti Black theme",
+      "preview": ""
+    },
+    {
+      "id": "shades-of-purple",
+      "name": "Shades of Purple",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Shades of Purple",
+      "description": "Shades of Purple theme",
+      "preview": ""
+    },
+    {
+      "id": "shades-of-purple-super-dark-beta",
+      "name": "Shades of Purple (Super Dark) · BETA",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Shades of Purple (Super Dark) · BETA",
+      "description": "Shades of Purple (Super Dark) · BETA theme",
+      "preview": ""
+    },
+    {
+      "id": "solarized-dark",
+      "name": "Solarized Dark",
+      "author": "blue-devil",
+      "repo": "blue-devil/IDA-Pro-Solarized-Theme",
+      "branch": "main",
+      "theme_path": "solarized-dark",
+      "description": "Solarized Dark color scheme",
+      "preview": ""
+    },
+    {
+      "id": "synthwave-84",
+      "name": "SynthWave 84",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/SynthWave 84",
+      "description": "SynthWave 84 theme",
+      "preview": ""
+    },
+    {
+      "id": "teabyiiayu-105",
+      "name": "teabyii.ayu-1.0.5",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/teabyii.ayu-1.0.5",
+      "description": "teabyii.ayu-1.0.5 theme",
+      "preview": ""
+    },
+    {
+      "id": "tokyo-night",
+      "name": "Tokyo Night",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Tokyo Night",
+      "description": "Tokyo Night theme",
+      "preview": ""
+    },
+    {
+      "id": "tokyo-night-light",
+      "name": "Tokyo Night Light",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Tokyo Night Light",
+      "description": "Tokyo Night Light theme",
+      "preview": ""
+    },
+    {
+      "id": "tokyo-night-storm",
+      "name": "Tokyo Night Storm",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Tokyo Night Storm",
+      "description": "Tokyo Night Storm theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-dark-default",
+      "name": "Visual Dark Default",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Dark Default",
+      "description": "Visual Dark Default theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-dark-dimmed",
+      "name": "Visual Dark Dimmed",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Dark Dimmed",
+      "description": "Visual Dark Dimmed theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-studio-2019-dark",
+      "name": "Visual Studio 2019 Dark",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Studio 2019 Dark",
+      "description": "Visual Studio 2019 Dark theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-studio-2019-dark-c",
+      "name": "Visual Studio 2019 Dark (C++)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Studio 2019 Dark (C++)",
+      "description": "Visual Studio 2019 Dark (C++) theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-studio-2019-light",
+      "name": "Visual Studio 2019 Light",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Studio 2019 Light",
+      "description": "Visual Studio 2019 Light theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-studio-dark-c-c",
+      "name": "Visual Studio Dark (C_C++)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Studio Dark (C_C++)",
+      "description": "Visual Studio Dark (C_C++) theme",
+      "preview": ""
+    },
+    {
+      "id": "visual-studio-light-c-c",
+      "name": "Visual Studio Light (C_C++)",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Visual Studio Light (C_C++)",
+      "description": "Visual Studio Light (C_C++) theme",
+      "preview": ""
+    },
+    {
+      "id": "vs-code-nextjs",
+      "name": "VS Code Next.Js",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/VS Code Next.Js",
+      "description": "VS Code Next.Js theme",
+      "preview": ""
+    },
+    {
+      "id": "vslight-extra-large",
+      "name": "VS Light Extra Large",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-extra-large",
+      "description": "Visual Studio Light theme (extra large)",
+      "preview": ""
+    },
+    {
+      "id": "vslight-large",
+      "name": "VS Light Large",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-large",
+      "description": "Visual Studio Light theme (large)",
+      "preview": ""
+    },
+    {
+      "id": "vslight-medium",
+      "name": "VS Light Medium",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-medium",
+      "description": "Visual Studio Light theme (medium)",
+      "preview": ""
+    },
+    {
+      "id": "vslight-small",
+      "name": "VS Light Small",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-small",
+      "description": "Visual Studio Light theme (small)",
+      "preview": ""
+    },
+    {
+      "id": "xpcode",
+      "name": "xpcode",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/xpcode",
+      "description": "xpcode theme",
+      "preview": ""
+    },
+    {
+      "id": "yami",
+      "name": "Yami",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Yami",
+      "description": "Yami theme",
+      "preview": ""
+    },
+    {
+      "id": "yami-blue",
+      "name": "Yami Blue",
+      "author": "can1357",
+      "repo": "can1357/IdaThemer",
+      "branch": "master",
+      "theme_path": "themes/Yami Blue",
+      "description": "Yami Blue theme",
+      "preview": ""
+    }
+  ]
+}

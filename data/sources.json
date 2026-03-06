@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "sources": [
+    {
+      "type": "single",
+      "id": "dracula",
+      "name": "Dracula",
+      "author": "dracula",
+      "repo": "dracula/ida",
+      "branch": "master",
+      "theme_path": "",
+      "description": "Dracula dark theme"
+    },
+    {
+      "type": "single",
+      "id": "dp701-small",
+      "name": "dp701 Small",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "master",
+      "theme_path": "theme/dp701-small",
+      "description": "Dark theme inspired by Visual Studio (small)"
+    },
+    {
+      "type": "single",
+      "id": "dp701-medium",
+      "name": "dp701 Medium",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "main",
+      "theme_path": "theme/dp701-medium",
+      "description": "Dark theme inspired by Visual Studio (medium)"
+    },
+    {
+      "type": "single",
+      "id": "dp701-large",
+      "name": "dp701 Large",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "main",
+      "theme_path": "theme/dp701-large",
+      "description": "Dark theme inspired by Visual Studio (large)"
+    },
+    {
+      "type": "single",
+      "id": "dp701-extra-large",
+      "name": "dp701 Extra Large",
+      "author": "pr701",
+      "repo": "pr701/dp701",
+      "branch": "main",
+      "theme_path": "theme/dp701-extra-large",
+      "description": "Dark theme inspired by Visual Studio (extra large)"
+    },
+    {
+      "type": "single",
+      "id": "vslight-small",
+      "name": "VS Light Small",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-small",
+      "description": "Visual Studio Light theme (small)"
+    },
+    {
+      "type": "single",
+      "id": "vslight-medium",
+      "name": "VS Light Medium",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-medium",
+      "description": "Visual Studio Light theme (medium)"
+    },
+    {
+      "type": "single",
+      "id": "vslight-large",
+      "name": "VS Light Large",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-large",
+      "description": "Visual Studio Light theme (large)"
+    },
+    {
+      "type": "single",
+      "id": "vslight-extra-large",
+      "name": "VS Light Extra Large",
+      "author": "iArtorias",
+      "repo": "iArtorias/vslight-ida",
+      "branch": "master",
+      "theme_path": "theme/vslight-extra-large",
+      "description": "Visual Studio Light theme (extra large)"
+    },
+    {
+      "type": "single",
+      "id": "long-night",
+      "name": "Long Night",
+      "author": "ioncodes",
+      "repo": "ioncodes/long_night",
+      "branch": "master",
+      "theme_path": "ida8.x-9.x/long_night",
+      "description": "Pastel dark theme for IDA 8.x-9.x"
+    },
+    {
+      "type": "single",
+      "id": "solarized-dark",
+      "name": "Solarized Dark",
+      "author": "blue-devil",
+      "repo": "blue-devil/IDA-Pro-Solarized-Theme",
+      "branch": "main",
+      "theme_path": "solarized-dark",
+      "description": "Solarized Dark color scheme"
+    },
+    {
+      "type": "single",
+      "id": "pihunter",
+      "name": "Pi Hunter",
+      "author": "rpigu-i",
+      "repo": "rpigu-i/ida-theme-pihunter",
+      "branch": "master",
+      "theme_path": "",
+      "description": "Pi Hunter dark theme"
+    },
+    {
+      "type": "folder",
+      "repo": "can1357/IdaThemer",
+      "author": "can1357",
+      "branch": "master",
+      "base_path": "themes",
+      "exclude": [
+        "Theme",
+        "ThemeDarker",
+        "ThemeFlat",
+        "ThemeMix"
+      ]
+    }
+  ]
+}

@@ -14,10 +14,10 @@ Includes popular themes such as **Dracula, Monokai, Solarized, Gruvbox, Catppucc
 
 * browse **100+ community themes**
 * install themes directly from GitHub
-* uninstall themes
 * search themes
-* open IDA **Options → Colors**
+* uninstall themes
 * lightweight UI
+* open IDA **Options → Colors**
 * keyboard shortcut (Ctrl + Alt + T)
 
 <p align="center">
@@ -52,13 +52,34 @@ Themes rely on the CSS-based theming system introduced in IDA 7.3.
 
 Themes are collected from community repositories.
 
-Special thanks to @can1357 for generating 80+ IDA themes from VSCode themes.
+Special thanks to [can1357/IdaThemer](https://github.com/can1357/IdaThemer) for creating a tool that generates IDA themes from VSCode themes.
+
+Other community themes come from repositories such as:
+
+- dracula/ida  
+- pr701/dp701  
+- ioncodes/long_night  
+- blue-devil/IDA-Pro-Solarized-Theme  
+- rpigu-i/ida-theme-pihunter  
+- iArtorias/vslight-ida
 
 ## Missing a theme?
 
 Open an issue.
 
 If the repository contains a `theme.css`, it can probably be added.
+
+## What this plugin actually does
+
+Nothing magical.
+
+It just:
+
+- indexes community themes
+- downloads them from their original GitHub repositories
+- installs them into `~/.idapro/themes/`
+
+Then you enable them via: **Options → Colors**
 
 ## License
 
