@@ -50,19 +50,9 @@ Themes rely on the CSS-based theming system introduced in IDA 7.3.
 
 ## Themes
 
-This plugin acts as a simple index of community themes.
+Themes are collected from community repositories.
 
-Most themes come from these repositories:
-
-* [https://github.com/can1357/IdaThemer](https://github.com/can1357/IdaThemer)
-* [https://github.com/dracula/ida](https://github.com/dracula/ida)
-* [https://github.com/pr701/dp701](https://github.com/pr701/dp701)
-* [https://github.com/ioncodes/long_night](https://github.com/ioncodes/long_night)
-* [https://github.com/blue-devil/IDA-Pro-Solarized-Theme](https://github.com/blue-devil/IDA-Pro-Solarized-Theme)
-* [https://github.com/rpigu-i/ida-theme-pihunter](https://github.com/rpigu-i/ida-theme-pihunter)
-* [https://github.com/iArtorias/vslight-ida](https://github.com/iArtorias/vslight-ida)
-
-Special thanks to **can1357** for generating **80+ IDA themes from VSCode themes**.
+Special thanks to @can1357 for generating 80+ IDA themes from VSCode themes.
 
 ## Missing a theme?
 
