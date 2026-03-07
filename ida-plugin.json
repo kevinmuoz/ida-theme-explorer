@@ -3,7 +3,7 @@
   "plugin": {
     "name": "IDA-Theme-Explorer",
     "entryPoint": "theme_explorer.py",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "idaVersions": ">=9.0",
     "description": "Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized, Gruvbox and more)",
     "license": "MIT",
