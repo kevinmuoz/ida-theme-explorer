@@ -1,8 +1,6 @@
 # IDA Theme Explorer
 
-<p align="center">
-<img src="images/ida_theme_explorer.png" width="420">
-</p>
+![IDA Theme Explorer](images/ida_theme_explorer.png)
 
 Install **100+ community themes for IDA Pro** in two clicks.
 
@@ -20,9 +18,7 @@ Includes popular themes such as **Dracula, Monokai, Solarized, Gruvbox, Catppucc
 * open IDA **Options → Colors**
 * keyboard shortcut (Ctrl + Alt + T)
 
-<p align="center">
-<img src="images/ui.png">
-</p>
+![IDA Theme Explorer UI](images/ui.png)
 
 ## Installation
 
