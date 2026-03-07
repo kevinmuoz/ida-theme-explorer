@@ -474,7 +474,7 @@ class ThemeExplorerDialog(QDialog):
         if tid not in self._installed:
             return
         if QMessageBox.question(
-            self, "Uninstall",
+            None, "Uninstall",
             f"Remove theme '{t.get('name')}'?",
             QMessageBox.Yes | QMessageBox.No,
         ) != QMessageBox.Yes:
@@ -499,10 +499,10 @@ class ThemeExplorerDialog(QDialog):
 
         if ok:
             self._log(msg.split("\n")[0])
-            QMessageBox.information(self, "Theme Explorer", msg)
+            QMessageBox.information(None, "Theme Explorer", msg)
         else:
             self._log(msg.split("\n")[0], error=True)
-            QMessageBox.warning(self, "Theme Explorer", msg)
+            QMessageBox.warning(None, "Theme Explorer", msg)
 
     def _busy(self, b: bool) -> None:
         e = not b

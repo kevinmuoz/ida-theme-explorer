@@ -149,7 +149,7 @@ def install_theme(theme: dict) -> Tuple[bool, str]:
     try:
         data = _download_zip(repo, branch)
     except Exception as e:
-        return False, f"Download failedd: {e}"
+        return False, f"Download failed: {e}"
 
     dest = os.path.join(themes_dir(), tid)
     try:

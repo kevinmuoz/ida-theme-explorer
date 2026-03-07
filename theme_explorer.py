@@ -119,7 +119,7 @@ class ThemeExplorerPlugin(idaapi.plugin_t):
                     OpenAction.NAME,
                     OpenAction.LABEL,
                     act,
-                    self.wanted_hotkey,
+                    None,
                     "Browse and install IDA themes",
                     self._icon_id if self._icon_id >= 0 else -1,
                 )
@@ -134,7 +134,7 @@ class ThemeExplorerPlugin(idaapi.plugin_t):
             except Exception as e:
                 LOG(f"menu: {e}")
 
-            LOG("ready (Ctrl+Shift+Alt+T)")
+            LOG("ready (Ctrl+Alt+T)")
             return idaapi.PLUGIN_KEEP
 
         except Exception as e:
