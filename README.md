@@ -18,7 +18,7 @@ Includes popular themes such as **Dracula, Monokai, Solarized, Gruvbox, Catppucc
 * open IDA **Options → Colors**
 * keyboard shortcut (Ctrl + Alt + T)
 
-![IDA Theme Explorer UI](images/ui.png)
+![IDA Theme Explorer UI](images/demo.gif)
 
 ## Installation
 

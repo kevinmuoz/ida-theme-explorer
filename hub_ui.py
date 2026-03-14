@@ -71,6 +71,48 @@ QDialog {{
     background: {_BG};
     color: {_TEXT};
 }}
+QScrollBar:vertical {{
+    background: {_BG};
+    width: 8px;
+    border: none;
+}}
+QScrollBar::handle:vertical {{
+    background: {_BORDER};
+    border-radius: 4px;
+    min-height: 20px;
+}}
+QScrollBar::handle:vertical:hover {{
+    background: {_TEXT_MUTE};
+}}
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical,
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {{
+    background: none;
+    border: none;
+    height: 0px;
+}}
+QScrollBar:horizontal {{
+    background: {_BG};
+    height: 8px;
+    border: none;
+}}
+QScrollBar::handle:horizontal {{
+    background: {_BORDER};
+    border-radius: 4px;
+    min-width: 20px;
+}}
+QScrollBar::handle:horizontal:hover {{
+    background: {_TEXT_MUTE};
+}}
+QScrollBar::add-line:horizontal,
+QScrollBar::sub-line:horizontal,
+QScrollBar::add-page:horizontal,
+QScrollBar::sub-page:horizontal {{
+    background: none;
+    border: none;
+    width: 0px;
+}}
 """
 
 _LIST_SS = f"""
@@ -94,6 +136,31 @@ QListWidget::item:selected {{
 }}
 QListWidget::item:hover {{
     background: {_BORDER};
+}}
+QListWidget QScrollBar:vertical {{
+    background: {_SURFACE};
+    width: 8px;
+    border: none;
+    border-radius: 4px;
+}}
+QListWidget QScrollBar::handle:vertical {{
+    background: {_BORDER};
+    border-radius: 4px;
+    min-height: 20px;
+}}
+QListWidget QScrollBar::handle:vertical:hover {{
+    background: {_TEXT_MUTE};
+}}
+QListWidget QScrollBar::add-line:vertical,
+QListWidget QScrollBar::sub-line:vertical,
+QListWidget QScrollBar::add-page:vertical,
+QListWidget QScrollBar::sub-page:vertical {{
+    background: none;
+    border: none;
+    height: 0px;
+}}
+QListWidget QScrollBar:horizontal {{
+    height: 0px;
 }}
 """
 
